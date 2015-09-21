@@ -77,3 +77,5 @@ Check out what I'm working on 👀
 3. [Sheetsu](http://sheetsu.com/).
 4. [Fork-N-Go!](http://jlord.us/forkngo/)
 5. [Rachel Smith's Codepen](http://codepen.io/rachsmith/popular/)
+6. [libraries.io](https://libraries.io/)
+7. [Botmakers](https://botmakers.org/)
