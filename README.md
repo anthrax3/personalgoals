@@ -74,5 +74,6 @@ Check out what I'm working on 👀
 ### Backlog: Code Things I Want to Do/Play With
 1. [Twitter CLI](http://sferik.github.io/t/)
 2. [Kimono API](https://www.kimonolabs.com/apidocs): Scrap stuff.
-3. [Fork-N-Go!](http://jlord.us/forkngo/)
-4. [Rachel Smith's Codepen](http://codepen.io/rachsmith/popular/)
+3. [Sheetsu](http://sheetsu.com/).
+4. [Fork-N-Go!](http://jlord.us/forkngo/)
+5. [Rachel Smith's Codepen](http://codepen.io/rachsmith/popular/)
