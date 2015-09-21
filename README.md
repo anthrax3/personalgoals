@@ -17,7 +17,7 @@ Check out what I'm working on 👀
 
 ## Things I'll Do This Month:
 - [ ] Continue working on the [Issues](https://github.com/patriciarealini/patriciarealini/blob/master/issues.md) that are open for my [Personal Site](www.patriciarealini.com). 
-	- [ ] CSS animation of background color when hovering over a link.
+	- [x] CSS animation of background color when hovering over a link. _Completed September 20, 2015_
 	- [ ] JQuery change image file for buttons when hovering over.
 - [ ] Continue working on the [Issues](https://github.com/patriciarealini/tarot/blob/master/issues.md) that are open for the [Tarot Project](https://github.com/patriciarealini/tarot). 
 - [x] Apply to [JQuery Dev Summit](http://events.jquery.org/2015/developer-summit/) _Completed 09/18/2015_
