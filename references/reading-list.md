@@ -10,7 +10,7 @@
 
 ### CSS
 - [ ] [Beginner's Guide To Sass](http://www.webdesignerdepot.com/2013/11/the-beginners-guide-to-sass/)
-- [ ] [5 Reasons YOu Should Be Using Sass Today](http://www.webdesignerdepot.com/2014/08/5-reasons-you-should-be-using-sass-today/)
+- [ ] [5 Reasons You Should Be Using Sass Today](http://www.webdesignerdepot.com/2014/08/5-reasons-you-should-be-using-sass-today/)
 - [ ] [How To Use CSS3 Columns](http://www.webdesignerdepot.com/2013/03/how-to-use-css3-columns/)
 - [ ] [CSS You Can Get Excited About in 2015](http://www.webdesignerdepot.com/2015/01/css-you-can-get-excited-about-in-2015/)
 - [ ] [Media Queries For Common Device Breakpoints](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints)
