@@ -79,3 +79,4 @@ Check out what I'm working on 👀
 5. [Rachel Smith's Codepen](http://codepen.io/rachsmith/popular/)
 6. [libraries.io](https://libraries.io/)
 7. [Botmakers](https://botmakers.org/)
+8. [Gridism](http://cobyism.com/gridism/)
