@@ -2,6 +2,7 @@
 
 ### Brainstorming
 - What Tech companies & start ups can learn from fine dining
+Servant leadership & supportive creative culture. Compare chefs & their history, mgmt style, kitchen culture to startups & how we can emulate what they did right.
 	- [Fantasies of a Happier Kitchen](http://luckypeach.com/mad5/) By Rene Redzepi
 	- [Readers Responses To Fantasies of a Happier Kitchen](http://luckypeach.com/responses-to-fantasies-of-a-happier-kitchen/)
 - _Managers, amirite_?: How disrupting management in startups isn't working
@@ -12,6 +13,9 @@
 	- [Holacracy](http://www.holacracy.org/how-it-works/)
 	- [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
 	- [Diffusion Of Responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
+	- [MailChimp Creative Mornings](https://vimeo.com/34081566) Working on side projects is beneficial to the company as a whole. 
+	- Zappos taking ownership of issues. 
+	- Sense of urgency, Ownership of problems
 
 ### Articles & Topics of Interest
 
