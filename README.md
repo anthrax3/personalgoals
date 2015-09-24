@@ -29,6 +29,7 @@ Check out what I'm working on 👀
 - [ ] Apply to [SassConf](http://sassconf.com/#scholarships) diversity scholarship.
 - [ ] Apply to [CatskillsConf](http://www.catskillsconf.com/diversity/) diversity scholarship. 
 - [ ] Apply to [ffconf](https://remysharp.com/2015/08/28/diversity-scholarships) diversity scholarship. 
+- [ ] Read as much of [8 Light's Blog](http://blog.8thlight.com/) as humanly possible. 
 
 ### Things I'll Do Next Month: October 2015
 - [ ] Do the [Tetris.js](https://github.com/chikeichan/tetris.js) project. 
