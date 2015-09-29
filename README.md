@@ -22,7 +22,7 @@ Check out what I'm working on 👀
 - [ ] Continue working on the [Issues](https://github.com/patriciarealini/tarot/blob/master/issues.md) that are open for the [Tarot Project](https://github.com/patriciarealini/tarot). 
 - [x] Apply to [JQuery Dev Summit](http://events.jquery.org/2015/developer-summit/) _Completed 09/18/2015_
 - [x] Apply to [RailsGirlsLA](http://railsgirls.com/la) _Completed 09/18/2015_
-- [ ] Do [Try Ruby](http://tryruby.org/levels/1/challenges/0) for Level II of Rails Girls application
+- [x] Do [Try Ruby](http://tryruby.org/levels/1/challenges/0) for Level II of Rails Girls application. _Completed 09/29/2015_
 - [ ] Contribute to JQuery documentation. Check out [Open Source For Women](https://www.os4w.org/). 
 - [ ] Add syntax highlighting/color palette to my bash profile. (This would make a cool palette, lol: [Poke Palettes: Ivysaur](http://pokepalettes.com/#ivysaur))
 - [ ] Review the [Node Workshop](http://bocoup-education.github.io/TXJS-Node-Workshop/) I took at TXJS in July. 
