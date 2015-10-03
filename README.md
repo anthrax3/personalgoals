@@ -13,25 +13,23 @@ Check out what I'm working on 👀
 5. Learn about back end & become a full stack developer.
 6. Give back to the community by mentoring those that come after me.
 
-## September 2015: _Be Tenacious_.
+## October 2015: _Be Willful_.
 
 ## Things I'll Do This Month:
 - [ ] Continue working on the [Issues](https://github.com/patriciarealini/patriciarealini/blob/master/issues.md) that are open for my [Personal Site](www.patriciarealini.com). 
-	- [x] CSS animation of background color when hovering over a link. _Completed September 20, 2015_
 	- [ ] JQuery change image file for buttons when hovering over.
 - [ ] Continue working on the [Issues](https://github.com/patriciarealini/tarot/blob/master/issues.md) that are open for the [Tarot Project](https://github.com/patriciarealini/tarot). 
-- [x] Apply to [JQuery Dev Summit](http://events.jquery.org/2015/developer-summit/) _Completed 09/18/2015_
-- [x] Apply to [RailsGirlsLA](http://railsgirls.com/la) _Completed 09/18/2015_
-- [x] Do [Try Ruby](http://tryruby.org/levels/1/challenges/0) for Level II of Rails Girls application. _Completed 09/29/2015_
-- [ ] Contribute to JQuery documentation. Check out [Open Source For Women](https://www.os4w.org/). 
-- [ ] Add syntax highlighting/color palette to my bash profile. (This would make a cool palette, lol: [Poke Palettes: Ivysaur](http://pokepalettes.com/#ivysaur))
-- [ ] Review the [Node Workshop](http://bocoup-education.github.io/TXJS-Node-Workshop/) I took at TXJS in July. 
-- [ ] Apply to [SassConf](http://sassconf.com/#scholarships) diversity scholarship.
+- [ ] Complete 8th Light coding challenge for my Apprenticeship applicaiton. 
+- [ ] Interview at Laurel + Wolf. 
+- [ ] Attend JQuery Dev Summit, October 16-17. Open source, here I come!
+- [x] Apply to [SassConf](http://sassconf.com/#scholarships) diversity scholarship. _Completed 10/02/2015_
 - [ ] Apply to [CatskillsConf](http://www.catskillsconf.com/diversity/) diversity scholarship. 
 - [ ] Apply to [ffconf](https://remysharp.com/2015/08/28/diversity-scholarships) diversity scholarship. 
 - [ ] Read as much of [8 Light's Blog](http://blog.8thlight.com/) as humanly possible & watch some of the [8th Light University](http://university.8thlight.com/) talks.
+- [ ] Review the [Node Workshop](http://bocoup-education.github.io/TXJS-Node-Workshop/) I took at TXJS in July. 
+- [ ] Add syntax highlighting/color palette to my bash profile. (This would make a cool palette, lol: [Poke Palettes: Ivysaur](http://pokepalettes.com/#ivysaur))
 
-### Things I'll Do Next Month: October 2015
+### Things I'll Do Next Month: November 2015
 - [ ] Do the [Tetris.js](https://github.com/chikeichan/tetris.js) project. 
 - [ ] Start working through [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/). 
 - [ ] Learn [AJAX](http://api.jquery.com/jquery.ajax/) and use it in a project. 
