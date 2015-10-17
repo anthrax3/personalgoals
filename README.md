@@ -22,6 +22,7 @@ Check out what I'm working on 👀
 - [ ] Complete 8th Light coding challenge for my Apprenticeship applicaiton. 
 - [x] Interview at Laurel + Wolf. _Completed 10/08/2015_
 - [x] Attend JQuery Dev Summit, October 16-17. Open source, here I come! _Completed 10/16/2015_
+	- [ ] Contribute to [npm](https://github.com/npm/newww/) [Issue #463](https://github.com/npm/newww/issues/463) & add emoji dependencies to npm's website & marky-mardown.
 - [x] Apply to [SassConf](http://sassconf.com/#scholarships) diversity scholarship. _Completed 10/02/2015_
 - [ ] Read as much of [8 Light's Blog](http://blog.8thlight.com/) as humanly possible & watch some of the [8th Light University](http://university.8thlight.com/) talks.
 - [ ] Review the [Node Workshop](http://bocoup-education.github.io/TXJS-Node-Workshop/) I took at TXJS in July. 
