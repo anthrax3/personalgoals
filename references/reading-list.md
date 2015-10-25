@@ -7,6 +7,8 @@
 - [ ] [A Baseline For Front End JS Developers](http://rmurphey.com/blog/2015/03/23/a-baseline-for-front-end-developers-2015/) 2015
 - [ ] [Scoping & Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 - [ ] [How To Create A Slideable Grid With JQuery](http://www.webdesignerdepot.com/2014/01/how-to-create-a-slidable-grid-with-jquery/)
+- [ ] [Free JavaScript Books](http://jsbooks.revolunet.com/)
+- [ ] [JavaScript Code Style](http://jscs.info/)
 
 ### CSS
 - [ ] [Beginner's Guide To Sass](http://www.webdesignerdepot.com/2013/11/the-beginners-guide-to-sass/)
@@ -23,12 +25,20 @@
 - [ ] [Use Git Commits To Drive A Live Coding Session](http://www.jayway.com/2015/03/30/using-git-commits-to-drive-a-live-coding-session/)
 - [ ] [Drawing & Painting in Illustrator](http://www.pluralsight.com/courses/drawing-painting-illustrator-1928)
 - [ ] [Learn to Code HTML CSS](http://learn.shayhowe.com/html-css/)
+- [ ] [How DNS Works](https://howdns.works/)
+- [ ] [Web Security Adventure](https://github.com/toolness/security-adventure)
+- [ ] [Learn Web Server & HTTP Protocols](https://github.com/toolness/placedkitten)
 
 ### Talks & Slides
 - [ ] [Ionic](http://slides.com/digitaldrummerj/ionic#/) (SoCal Coding Camp, Summer 2015)
 - [ ] [Ten Things I Learned From The JQuery Source](http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/)
 - [ ] [Clean Code](http://www.jeremybytes.com/Downloads/CleanCode.pdf)
 - [ ] [TXJS 2013](https://vimeo.com/channels/txjs2013)
+- [ ] [CSSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHoV6GgvG9WWAP6rjnEdAs9)
+- [ ] [JSConf EU 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshH37NxpV6XbgdDpY-w48hMd)
+- [ ] [Reject.JS 2015](https://www.youtube.com/playlist?list=PL37ZVnwpeshHtusNoObfs0hKDrRjBkzHN)
+- [ ] [The Internet of Shapes with Brenna O'Brien](https://www.youtube.com/watch?v=FzB6SGrpg8M)
+- [ ] [Open Source & Feelings 2015](http://confreaks.tv/events/osfeels2015)
 
 ### Give A Talk
 - [ ] [Writing Conference Proposals](http://rmurphey.com/blog/2015/01/26/writing-conference-proposals/)
@@ -48,5 +58,8 @@
 - [ ] _A Pattern Language_ By Christopher Alexander, Sara Ishikawa & Murray Silverstein
 - [ ] _Girl In A Band_ By Kim Gordon
 - [ ] _CAD Monkeys, Dinosaur Babies & T Shaped People_ By Warren Berger
-- [ ] _Yes Please_ By Amy Poehler
+- [x] _Yes Please_ By Amy Poehler
+- [x] _Why Is Everyone Hanging Out Without Me_ By Mindy Kaling
 - [ ] _The Devil In The Kitchen_ By Marco Pierre White
+- [x] _Just Kids_ By Patti Smith
+- [ ] _M Train_ By Patti Smith
