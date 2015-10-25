@@ -17,15 +17,14 @@ Check out what I'm working on 👀
 
 ## Things I'll Do This Month:
 - [ ] Continue working on the [Issues](https://github.com/patriciarealini/patriciarealini/blob/master/issues.md) that are open for my [Personal Site](www.patriciarealini.com). 
-	- [ ] JQuery change image file for buttons when hovering over.
+	- [ ] JQuery change image file for buttons when hovering over. 
 - [ ] Continue working on the [Issues](https://github.com/patriciarealini/tarot/blob/master/issues.md) that are open for the [Tarot Project](https://github.com/patriciarealini/tarot). 
-- [ ] Complete 8th Light coding challenge for my Apprenticeship applicaiton. 
+- [ ] Complete 8th Light coding challenge for my Apprenticeship application?
 - [x] Interview at Laurel + Wolf. _Completed 10/08/2015_
 - [x] Attend JQuery Dev Summit, October 16-17. Open source, here I come! _Completed 10/16/2015_
 	- [ ] Contribute to [npm](https://github.com/npm/newww/) [Issue #463](https://github.com/npm/newww/issues/463) & add emoji dependencies to npm's website & marky-mardown.
+- [x] Attend Rails Girls LA, October 24. _Completed 10/24/2015_
 - [x] Apply to [SassConf](http://sassconf.com/#scholarships) diversity scholarship. _Completed 10/02/2015_
-- [ ] Read as much of [8 Light's Blog](http://blog.8thlight.com/) as humanly possible & watch some of the [8th Light University](http://university.8thlight.com/) talks.
-- [ ] Review the [Node Workshop](http://bocoup-education.github.io/TXJS-Node-Workshop/) I took at TXJS in July. 
 - [ ] Add syntax highlighting/color palette to my bash profile. (This would make a cool palette, lol: [Poke Palettes: Ivysaur](http://pokepalettes.com/#ivysaur))
 
 ### Things I'll Do Next Month: November 2015
@@ -34,7 +33,7 @@ Check out what I'm working on 👀
 - [ ] Learn [AJAX](http://api.jquery.com/jquery.ajax/) and use it in a project. 
 - [ ] Make a slider with [this](http://rafbm.github.io/howtomakeaslider/) tutorial. 
 - [ ] Layout & initialize my Sommelier project.
-- [ ] Write an abstract for my first talk.
+- [ ] Write an abstract for my first talk. (Render Conf?)
 
 ### Backlog: Side Projects 
 - [ ] Work on the front end of [MaptimeLA's Historic Restaurant Map](https://github.com/maptimeLA/old-la-restaurants). 
@@ -63,11 +62,13 @@ Check out what I'm working on 👀
 - [ ] Node.js
 	- [ ] Learn [Node](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/). 
 	- [ ] Do the [Learn You Node](https://github.com/workshopper/learnyounode) tutorial.
-	- [ ] Do the [Short Introduction to Node](https://github.com/maxogden/art-of-node) tutorial.  
+	- [ ] Do the [Short Introduction to Node](https://github.com/maxogden/art-of-node) tutorial. 
+	- [ ] Review the [Node Workshop](http://bocoup-education.github.io/TXJS-Node-Workshop/) I took at TXJS in July.  
 - [ ] Customize Bash Syntax Coloring
 	- [ ] Check out [xta's Halloween Bash](https://github.com/xta/HalloweenBash) [Profile Generator](http://xta.github.io/HalloweenBash/).
 	- [ ] Look into this [article](http://apple.stackexchange.com/questions/9821/can-i-make-my-mac-os-x-terminal-color-items-according-to-syntax-like-the-ubuntu) on syntax coloring. 
 	- [ ] Read up on [Syntax Highlighting in OSX Terminal](http://thelivingpearl.com/2013/01/02/syntax-highlighting-in-the-mac-os-x-terminal/) & [Simple Tricks to Improve Terminal Appearance](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
+- [ ] Read as much of [8 Light's Blog](http://blog.8thlight.com/) as humanly possible & watch some of the [8th Light University](http://university.8thlight.com/) talks.
 
 ### Backlog: Code Things I Want to Do/Play With
 1. [Twitter CLI](http://sferik.github.io/t/)
