@@ -6,7 +6,9 @@ I love writing lists; they keep my on track & help me organize my prioritizes. I
 Check out what I'm working on 👀
 
 
-## April 2016: _Be Confident_.
+## April 2016
+
+_“What could we accomplish if we knew we could not fail?”_ –Eleanor Roosevelt
 
 #### Dev
 - [ ] Ando take home assignment
