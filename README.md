@@ -8,9 +8,19 @@ Check out what I'm working on 👀
 
 ## April 2016: _Be Confident_.
 
-## Things I'll Do This Month:
-
-####
+#### Dev
+- [ ] Ando take home assignment
+- [ ] Resume update
+- [ ] Personal Site
+	- [ ] Nav Bar
+	- [ ] Work page
+	- [ ] Blog
+	- [ ] Sundial scripts
+	- [ ] Iterate one up to Node/Sass stack
+- [ ] JS Boilerplate repo
+- [ ] Tarot Project
+- [ ] First Person Tetris Project. See [Tetris.js](https://github.com/chikeichan/tetris.js) project but convert to [First Person Tetris](http://www.firstpersontetris.com).
+- [ ] Collecting Dust Project. See [Discogs API](https://github.com/discogs/discogs_client).
 
 #### Confs
 - [ ] Write a talk on TDD, the different kinds of tests, when & where they are most useful & writing test in js. Propose to BrooklynJS. See [PhantomFlow](https://github.com/Huddle/PhantomFlow).
@@ -35,6 +45,12 @@ Check out what I'm working on 👀
 - [ ] Submit applications to the following diversity scholarships.
 	- [ ] [LoopConf](https://loopconf.com/scholarships/) Ft. Lauderdale - Septemberish
 
+#### Fun
+- [ ] Beach House at Pappy & Harriet's in Joshua Tree.
+- [ ] Camping in Big Sur.
+- [ ] Make more squash tamales.
+- [ ] Make a lemon curd tart.
 
-## Backburner/Things I'll Do Next Month: May 2016
-- [ ] Do the [Tetris.js](https://github.com/chikeichan/tetris.js) project but convert to [First Person Tetris](http://www.firstpersontetris.com).
+
+## Backburner
+_take a load off. it's ok to move things here._
